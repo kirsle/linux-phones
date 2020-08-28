@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Deep Sleep
+GenericName=Battery Saver
+Comment=Battery Saver
+Exec=sudo deepsleep.sh
+Icon=battery
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=System;
+Keywords=battery;
